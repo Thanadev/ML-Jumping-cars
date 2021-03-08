@@ -1,0 +1,23 @@
+{
+    "Jumper": {
+        "checkpoints": [
+            {
+                "steps": 13018,
+                "file_path": "results\\jumperai1\\Jumper\\Jumper-13018.onnx",
+                "reward": -0.10000000149011612,
+                "creation_time": 1615038469.7977302
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 13018,
+            "file_path": "results\\jumperai1\\Jumper.onnx",
+            "reward": -0.10000000149011612,
+            "creation_time": 1615038469.7977302
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.24.0",
+        "torch_version": "1.8.0+cpu"
+    }
+}
